@@ -5,3 +5,5 @@ I share with you this simplified version of a website known as: Tudo Gostoso. Th
 Some of the best practices left out because they don't make sense in context:
 - aria-label
 - some meta tags for SEO
+
+Click for visit this page [TudoGostoso Simplificado](https://matheusrenner22.github.io/tudo-gostoso-simplified/).
